@@ -1,3 +1,3 @@
 # Travel Destinations
 
-A simple app to keep track of destinations I'd like to visit.
+A toy repository used in a Udacity Course to show how projects can be forked and amended
